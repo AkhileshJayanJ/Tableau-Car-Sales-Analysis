@@ -63,7 +63,8 @@ Based on the analysis, we recommend the following actions:
 ### DashBoard
 ---
 
-![dashboard](https://github.com/AkhileshJayanJ/Tableau-Car-Sales-Analysis/assets/160492546/7c73423c-4ba8-4fdf-b6e2-c4b9ede1db1a)
+![db](https://github.com/AkhileshJayanJ/Tableau-Car-Sales-Analysis/assets/160492546/56db1778-9d0c-4075-890e-3bbb15f3f3ee)
+
 
 
 

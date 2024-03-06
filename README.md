@@ -53,7 +53,7 @@ The analysis results are summarized as follows:
      ![region](https://github.com/AkhileshJayanJ/Tableau-Car-Sales-Analysis/assets/160492546/4f468d87-010d-4e4b-9f3c-291a1838ea4b)
 
 
-### Recommendation
+### Recommendations
 ---
 
 Based on the analysis, we recommend the following actions:
